@@ -1,5 +1,5 @@
 
-## dokcer build
+## docker build
 
 `docker build -t [your_image_name]:[your_tag_name(option)] .`
 
